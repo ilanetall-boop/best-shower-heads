@@ -58,5 +58,16 @@
     "category": "Top Lists",
     "template": "roundup",
     "featured": false
+  },
+  {
+    "title": "6 Best Handheld Shower Heads of 2026: Tested & Ranked",
+    "slug": "best-handheld-shower-heads",
+    "summary": "We tested 12+ handheld shower heads for pressure, spray modes, and ease of use. Our top 6 picks from $19.99 to $64.99 — ranked by performance and value.",
+    "image": "images/hero-best-handheld-shower-heads.png",
+    "imageWidth": 400,
+    "imageHeight": 192,
+    "publishDate": "2026-03-09",
+    "category": "Reviews",
+    "featured": false
   }
 ]
