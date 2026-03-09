@@ -1,0 +1,33 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" rx="4" fill="#263238"/>
+
+  <!-- Shower Arm (pipe from wall) -->
+  <rect x="6" y="6" width="10" height="3" rx="1.5" fill="#78909C"/>
+
+  <!-- Shower Head (circular face) -->
+  <circle cx="16" cy="12" r="6" fill="#455A64" stroke="#78909C" stroke-width="1"/>
+
+  <!-- Shower Head Inner -->
+  <circle cx="16" cy="12" r="4.5" fill="#546E7A"/>
+
+  <!-- Water Holes -->
+  <circle cx="14" cy="10.5" r="0.7" fill="#00BCD4"/>
+  <circle cx="16" cy="10.5" r="0.7" fill="#00BCD4"/>
+  <circle cx="18" cy="10.5" r="0.7" fill="#00BCD4"/>
+  <circle cx="13.5" cy="12.5" r="0.7" fill="#00BCD4"/>
+  <circle cx="16" cy="12.5" r="0.7" fill="#00BCD4"/>
+  <circle cx="18.5" cy="12.5" r="0.7" fill="#00BCD4"/>
+  <circle cx="14" cy="14.5" r="0.7" fill="#00BCD4"/>
+  <circle cx="16" cy="14.5" r="0.7" fill="#00BCD4"/>
+  <circle cx="18" cy="14.5" r="0.7" fill="#00BCD4"/>
+
+  <!-- Water Streams -->
+  <line x1="13" y1="18" x2="12" y2="28" stroke="#00BCD4" stroke-width="0.8" stroke-linecap="round" opacity="0.7"/>
+  <line x1="15" y1="18" x2="14.5" y2="28" stroke="#00BCD4" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+  <line x1="17" y1="18" x2="17.5" y2="28" stroke="#00BCD4" stroke-width="0.8" stroke-linecap="round" opacity="0.6"/>
+  <line x1="19" y1="18" x2="20" y2="28" stroke="#00BCD4" stroke-width="0.8" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- Neck/connector -->
+  <rect x="14.5" y="7.5" width="3" height="2" rx="1" fill="#78909C"/>
+</svg>
