@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/shower-heads-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "bestshowerheads-20",
-  gaId: "",
+  gaId: "G-JY291BB1V8",
   colors: {
     primary: "#455A64",
     primaryLight: "#78909C",

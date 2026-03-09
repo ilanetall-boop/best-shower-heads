@@ -1,5 +1,53 @@
 [
   {
+    "title": "5 Best Rainfall Shower Heads for a Spa-Like Experience (2026)",
+    "slug": "best-rainfall-shower-heads",
+    "summary": "5 best rainfall shower heads tested for coverage, pressure, and build quality. From 6-inch budget picks to 12-inch luxury rain heads. Updated March 2026.",
+    "image": "images/hero-best-rainfall-shower-heads.png",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-09",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true
+  },
+  {
+    "title": "Best High Pressure Shower Heads for Weak Water Flow (2026)",
+    "slug": "best-high-pressure-shower-heads",
+    "summary": "5 best high pressure shower heads tested for boosting weak water flow. Pressure-amplifying designs from $12.99 to $34.95. Updated March 2026.",
+    "image": "images/hero-best-high-pressure-shower-heads.png",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-09",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true
+  },
+  {
+    "title": "Handheld vs Fixed Shower Heads: Which Is Better for You? (2026)",
+    "slug": "handheld-vs-fixed-shower-heads",
+    "summary": "Handheld vs fixed shower heads compared on 8 criteria. Installation, pressure, flexibility, price, and more. Find which type suits your bathroom.",
+    "image": "images/hero-handheld-vs-fixed-shower-heads.png",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-09",
+    "category": "Comparisons",
+    "template": "versus",
+    "featured": true
+  },
+  {
+    "title": "How to Choose the Right Shower Head: Complete Buyer's Guide (2026)",
+    "slug": "how-to-choose-the-right-shower-head",
+    "summary": "Step-by-step guide to choosing the perfect shower head. Types, spray patterns, materials, sizes, and budget planning for every bathroom.",
+    "image": "images/hero-how-to-choose-the-right-shower-head.png",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-09",
+    "category": "Guides",
+    "template": "guide",
+    "featured": false
+  },
+  {
     "title": "Best Shower Heads of 2026: 7 Expert-Tested Picks for Every Budget",
     "slug": "best-shower-heads",
     "summary": "We tested 15+ shower heads across every category — rainfall, filtered, combo, and budget — to find the 7 that deliver the best pressure, coverage, and value from $12.99 to $49.95.",
@@ -9,6 +57,6 @@
     "publishDate": "2026-03-08",
     "category": "Top Lists",
     "template": "roundup",
-    "featured": true
+    "featured": false
   }
 ]
