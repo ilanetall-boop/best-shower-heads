@@ -69,5 +69,17 @@
     "publishDate": "2026-03-09",
     "category": "Reviews",
     "featured": false
+  },
+  {
+    "title": "6 Best Filtered Shower Heads for Hard Water (2026)",
+    "slug": "best-filtered-shower-heads",
+    "summary": "We tested 12+ filtered shower heads for chlorine removal, water pressure, and filter lifespan. Our 6 top picks from $19.99 — with yearly cost breakdown per model.",
+    "image": "images/hero-best-filtered-shower-heads.png",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-10",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": false
   }
 ]
