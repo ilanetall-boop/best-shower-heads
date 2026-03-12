@@ -81,5 +81,29 @@
     "category": "Reviews",
     "template": "roundup",
     "featured": false
+  },
+  {
+    "title": "Best Dual Shower Heads with Rain & Handheld Combo (2026)",
+    "slug": "best-dual-shower-head-rain-handheld",
+    "summary": "5 best dual shower heads tested for coverage, pressure, and versatility. Rain and handheld combos from $16.99 to $44.64. Updated March 2026.",
+    "image": "images/hero-best-dual-shower-head-rain-handheld.webp",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-12",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true
+  },
+  {
+    "title": "Shower Head Flow Rate & GPM Guide: Everything You Need to Know (2026)",
+    "slug": "shower-head-flow-rate-gpm-guide",
+    "summary": "Complete guide to shower head flow rates and GPM. Federal regulations, WaterSense certification, how to measure, and cost savings calculator.",
+    "image": "images/hero-shower-head-flow-rate-gpm-guide.webp",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-12",
+    "category": "Guides",
+    "template": "guide",
+    "featured": false
   }
 ]
