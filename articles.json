@@ -105,5 +105,29 @@
     "category": "Guides",
     "template": "guide",
     "featured": false
+  },
+  {
+    "title": "Filtered vs Regular Shower Head: Which Do You Actually Need? (2026)",
+    "slug": "filtered-vs-regular-shower-head",
+    "summary": "Filtered vs regular shower head compared: how filtration works, contaminants removed, pressure impact, cost over 2 years, and who actually needs one.",
+    "image": "images/hero-filtered-vs-regular-shower-head.webp",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-11",
+    "category": "Comparisons",
+    "template": "versus",
+    "featured": false
+  },
+  {
+    "title": "How to Clean a Shower Head: 5 Easy Methods That Work (2026)",
+    "slug": "how-to-clean-a-shower-head",
+    "summary": "Learn how to clean a shower head with 5 proven methods using vinegar, baking soda, CLR, and more. Remove mineral buildup and restore water pressure.",
+    "image": "images/hero-how-to-clean-a-shower-head.webp",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-11",
+    "category": "Guides",
+    "template": "how-to",
+    "featured": false
   }
 ]
