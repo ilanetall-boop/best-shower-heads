@@ -129,5 +129,15 @@
     "category": "Guides",
     "template": "how-to",
     "featured": false
+  },
+  {
+    "slug": "best-shower-heads-for-hard-water",
+    "title": "7 Best Shower Heads for Hard Water: Filtered Options That Actually Work (2026)",
+    "summary": "Hard water ruins your hair, skin, and fixtures. We tested 6 filtered shower heads that actually remove chlorine, heavy metals, and sediment.",
+    "image": "images/hero-best-shower-heads-for-hard-water.png",
+    "publishDate": "2026-03-23",
+    "template": "roundup",
+    "category": "Hard Water",
+    "featured": true
   }
 ]
