@@ -9,7 +9,8 @@
     "publishDate": "2026-03-09",
     "category": "Reviews",
     "template": "roundup",
-    "featured": true
+    "featured": true,
+    "description": "5 best rainfall shower heads tested for coverage, pressure, and build quality. From 6-inch budget picks to 12-inch luxury rain heads. Updated March 2026."
   },
   {
     "title": "Best High Pressure Shower Heads for Weak Water Flow (2026)",
@@ -21,7 +22,8 @@
     "publishDate": "2026-03-09",
     "category": "Reviews",
     "template": "roundup",
-    "featured": true
+    "featured": true,
+    "description": "5 best high pressure shower heads tested for boosting weak water flow. Pressure-amplifying designs from $12.99 to $34.95. Updated March 2026."
   },
   {
     "title": "Handheld vs Fixed Shower Heads: Which Is Better for You? (2026)",
@@ -33,7 +35,8 @@
     "publishDate": "2026-03-09",
     "category": "Comparisons",
     "template": "versus",
-    "featured": true
+    "featured": true,
+    "description": "Handheld vs fixed shower heads compared on 8 criteria. Installation, pressure, flexibility, price, and more. Find which type suits your bathroom."
   },
   {
     "title": "How to Choose the Right Shower Head: Complete Buyer's Guide (2026)",
@@ -45,7 +48,8 @@
     "publishDate": "2026-03-09",
     "category": "Guides",
     "template": "guide",
-    "featured": false
+    "featured": false,
+    "description": "Step-by-step guide to choosing the perfect shower head. Types, spray patterns, materials, sizes, and budget planning for every bathroom."
   },
   {
     "title": "Best Shower Heads of 2026: 7 Expert-Tested Picks for Every Budget",
@@ -57,7 +61,8 @@
     "publishDate": "2026-03-08",
     "category": "Top Lists",
     "template": "roundup",
-    "featured": false
+    "featured": false,
+    "description": "We tested 15+ shower heads across every category — rainfall, filtered, combo, and budget — to find the 7 that deliver the best pressure, coverage, and value from $12.99 to $49.95."
   },
   {
     "title": "6 Best Handheld Shower Heads of 2026: Tested & Ranked",
@@ -68,7 +73,8 @@
     "imageHeight": 192,
     "publishDate": "2026-03-09",
     "category": "Reviews",
-    "featured": false
+    "featured": false,
+    "description": "We tested 12+ handheld shower heads for pressure, spray modes, and ease of use. Our top 6 picks from $19.99 to $64.99 — ranked by performance and value."
   },
   {
     "title": "6 Best Filtered Shower Heads for Hard Water (2026)",
@@ -80,7 +86,8 @@
     "publishDate": "2026-03-10",
     "category": "Reviews",
     "template": "roundup",
-    "featured": false
+    "featured": false,
+    "description": "We tested 12+ filtered shower heads for chlorine removal, water pressure, and filter lifespan. Our 6 top picks from $19.99 — with yearly cost breakdown per model."
   },
   {
     "title": "Best Dual Shower Heads with Rain & Handheld Combo (2026)",
@@ -92,7 +99,8 @@
     "publishDate": "2026-03-12",
     "category": "Reviews",
     "template": "roundup",
-    "featured": true
+    "featured": true,
+    "description": "5 best dual shower heads tested for coverage, pressure, and versatility. Rain and handheld combos from $16.99 to $44.64. Updated March 2026."
   },
   {
     "title": "Shower Head Flow Rate & GPM Guide: Everything You Need to Know (2026)",
@@ -104,7 +112,8 @@
     "publishDate": "2026-03-12",
     "category": "Guides",
     "template": "guide",
-    "featured": false
+    "featured": false,
+    "description": "Complete guide to shower head flow rates and GPM. Federal regulations, WaterSense certification, how to measure, and cost savings calculator."
   },
   {
     "title": "Filtered vs Regular Shower Head: Which Do You Actually Need? (2026)",
@@ -116,7 +125,8 @@
     "publishDate": "2026-03-11",
     "category": "Comparisons",
     "template": "versus",
-    "featured": false
+    "featured": false,
+    "description": "Filtered vs regular shower head compared: how filtration works, contaminants removed, pressure impact, cost over 2 years, and who actually needs one."
   },
   {
     "title": "How to Clean a Shower Head: 5 Easy Methods That Work (2026)",
@@ -128,7 +138,8 @@
     "publishDate": "2026-03-11",
     "category": "Guides",
     "template": "how-to",
-    "featured": false
+    "featured": false,
+    "description": "Learn how to clean a shower head with 5 proven methods using vinegar, baking soda, CLR, and more. Remove mineral buildup and restore water pressure."
   },
   {
     "slug": "best-shower-heads-for-hard-water",
@@ -138,6 +149,7 @@
     "publishDate": "2026-03-23",
     "template": "roundup",
     "category": "Hard Water",
-    "featured": true
+    "featured": true,
+    "description": "Hard water ruins your hair, skin, and fixtures. We tested 6 filtered shower heads that actually remove chlorine, heavy metals, and sediment."
   }
 ]
