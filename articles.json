@@ -151,5 +151,18 @@
     "category": "Hard Water",
     "featured": true,
     "description": "Hard water ruins your hair, skin, and fixtures. We tested 6 filtered shower heads that actually remove chlorine, heavy metals, and sediment."
+  },
+  {
+    "slug": "best-shower-heads-for-kids",
+    "title": "Best Shower Heads for Kids & Baby Bath Time: 6 Safe Picks (2026)",
+    "summary": "We tested 10+ shower heads for kids and baby bath time. Our 6 safest picks from $15.99 to $49.95 — rated for gentle spray, easy grip, and child-friendly design.",
+    "image": "images/hero-best-shower-heads-for-kids.png",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-25",
+    "template": "roundup",
+    "category": "Reviews",
+    "featured": true,
+    "description": "We tested 10+ shower heads for kids and baby bath time. Our 6 safest picks from $15.99 to $49.95 — rated for gentle spray, easy grip, and child-friendly design."
   }
 ]
