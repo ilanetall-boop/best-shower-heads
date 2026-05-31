@@ -58,7 +58,10 @@
 /index / 301
 /index/ / 301
 
-/best-massage-shower-heads.html /best-massage-shower-heads 301
-/best-massage-shower-heads/ /best-massage-shower-heads 301
-
-
+# Legacy broken articles (deleted 2026-05-31) — 302 to anchor
+/best-massage-shower-heads /best-bluetooth-speaker-shower-heads 302
+/best-massage-shower-heads/ /best-bluetooth-speaker-shower-heads 302
+/best-massage-shower-heads.html /best-bluetooth-speaker-shower-heads 302
+/best-rain-shower-head-with-handheld-combo /best-bluetooth-speaker-shower-heads 302
+/best-rain-shower-head-with-handheld-combo/ /best-bluetooth-speaker-shower-heads 302
+/best-rain-shower-head-with-handheld-combo.html /best-bluetooth-speaker-shower-heads 302
