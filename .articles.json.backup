@@ -1,5 +1,16 @@
 [
   {
+    "slug": "shower-head-buying-guide",
+    "title": "The Best Shower Head Buying Guide (2026)",
+    "publishDate": "2026-06-03",
+    "summary": "How to choose a shower head in 2026: flow rate, spray type, finish, and fit explained in plain English, plus the buying mistakes and maintenance steps that actually matter.",
+    "image": "images/hero-shower-head-buying-guide.webp?v=2",
+    "category": "Guides",
+    "template": "guide",
+    "description": "How to choose a shower head in 2026: flow rate, spray type, finish, and fit explained in plain English, plus the buying mistakes and maintenance steps that actually matter.",
+    "date": "2026-06-03"
+  },
+  {
     "slug": "best-shower-heads-under-50",
     "title": "The Best Shower Heads Under 50 (2026)",
     "publishDate": "2026-06-02",
@@ -216,7 +227,7 @@
     "slug": "best-bluetooth-speaker-shower-heads",
     "title": "Best Bluetooth Speaker Shower Heads: 6 Picks That Sound Great (2026)",
     "summary": "We tested 10+ shower heads for audio quality, water pressure, and Bluetooth connectivity. Our 6 best picks from $15.99 to $49.95. Updated March 2026.",
-    "image": "images/hero-best-bluetooth-speaker-shower-heads.webp",
+    "image": "images/hero-best-bluetooth-speaker-shower-heads.webp?v=2",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-28",
