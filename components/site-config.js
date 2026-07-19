@@ -48,7 +48,8 @@ window.SITE_CONFIG = {
       { label: "Best Towel Warmers", href: "https://www.best-towel-warmers.com" },
       { label: "Best Bathroom Faucets", href: "https://www.best-bathroom-faucets.com" },
       { label: "Best Bathroom Storage", href: "https://www.bestbathroomstorage.com" },
-      { label: "Best Shower Doors", href: "https://best-shower-doors.com" }
+      { label: "Best Shower Doors", href: "https://best-shower-doors.com" },
+      { label: "Best Shower Panels", href: "https://best-shower-panels.com" }
     ]
   },
   networkBanners: [
