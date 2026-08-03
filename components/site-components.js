@@ -191,6 +191,9 @@
           '</div>' +
         '</div>' +
         '<div class="footer-bottom">' +
+          // Amazon Operating Agreement: the Associates statement must appear on pages
+          // carrying affiliate links (the disclosure page alone is not enough) — audit 08-03.
+          '<p>As an Amazon Associate we earn from qualifying purchases.</p>' +
           '<p>&copy; ' + new Date().getFullYear() + ' ' + config.name + ' - All rights reserved</p>' +
         '</div>' +
       '</div>';
