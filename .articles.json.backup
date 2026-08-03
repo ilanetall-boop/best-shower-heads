@@ -1,35 +1,46 @@
 [
   {
+    "slug": "best-low-flow-shower-heads",
+    "title": "The Best Low-flow Shower Heads (2026)",
+    "publishDate": "2026-08-02",
+    "summary": "We compared seven of the best low-flow shower heads for GPM, pressure, and build quality. The $6.29 Isslly restrictor set wins, with picks for stronger pressure and dual systems too.",
+    "image": "images/hero-best-low-flow-shower-heads.webp",
+    "category": "Reviews",
+    "template": "roundup",
+    "description": "We compared seven of the best low-flow shower heads for GPM, pressure, and build quality. The $6.29 Isslly restrictor set wins, with picks for stronger pressure and dual systems too.",
+    "date": "2026-08-02"
+  },
+  {
     "slug": "best-fixed-rainfall-shower-heads",
     "title": "The Best Fixed Rainfall Shower Heads (2026)",
     "publishDate": "2026-08-01",
-    "summary": "We tested seven fixed rainfall shower heads on price, spray coverage, and build quality. BRIGHT SHOWERS wins overall, with picks for tight budgets and hard water too.",
+    "summary": "We compared seven fixed rainfall shower heads on price, spray coverage, and build quality. BRIGHT SHOWERS wins overall, with picks for tight budgets and hard water too.",
     "image": "images/hero-best-fixed-rainfall-shower-heads.webp",
     "category": "Reviews",
     "template": "roundup",
-    "description": "We tested seven fixed rainfall shower heads on price, spray coverage, and build quality. BRIGHT SHOWERS wins overall, with picks for tight budgets and hard water too.",
+    "description": "We compared seven fixed rainfall shower heads on price, spray coverage, and build quality. BRIGHT SHOWERS wins overall, with picks for tight budgets and hard water too.",
     "date": "2026-08-01"
   },
   {
     "slug": "best-bluetooth-shower-heads",
     "title": "The Best Bluetooth Shower Heads (2026)",
     "publishDate": "2026-07-31",
-    "summary": "Searching for the best bluetooth shower heads? We tested seven reliable, non-speaker alternatives instead, led by the $36.99 BRIGHT SHOWERS Rain Shower Head.",
+    "summary": "Searching for the best bluetooth shower heads? We compared seven reliable, non-speaker alternatives instead, led by the $36.99 BRIGHT SHOWERS Rain Shower Head.",
     "image": "images/hero-best-bluetooth-shower-heads.webp",
     "category": "Reviews",
     "template": "roundup",
-    "description": "Searching for the best bluetooth shower heads? We tested seven reliable, non-speaker alternatives instead, led by the $36.99 BRIGHT SHOWERS Rain Shower Head.",
+    "description": "Searching for the best bluetooth shower heads? We compared seven reliable, non-speaker alternatives instead, led by the $36.99 BRIGHT SHOWERS Rain Shower Head.",
     "date": "2026-07-31"
   },
   {
     "slug": "best-fixed-handheld-shower-heads",
     "title": "The Best Fixed Handheld Shower Heads (2026)",
     "publishDate": "2026-07-30",
-    "summary": "We tested seven of the best fixed handheld shower heads on the market, from budget dual-mode sprayers to magnetic docking systems, to find the one worth your money.",
+    "summary": "We compared seven of the best fixed handheld shower heads on the market, from budget dual-mode sprayers to magnetic docking systems, to find the one worth your money.",
     "image": "images/hero-best-fixed-handheld-shower-heads.webp",
     "category": "Reviews",
     "template": "roundup",
-    "description": "We tested seven of the best fixed handheld shower heads on the market, from budget dual-mode sprayers to magnetic docking systems, to find the one worth your money.",
+    "description": "We compared seven of the best fixed handheld shower heads on the market, from budget dual-mode sprayers to magnetic docking systems, to find the one worth your money.",
     "date": "2026-07-30"
   },
   {
@@ -152,17 +163,6 @@
     "template": "roundup",
     "description": "We compared 7 rainfall shower heads that hold up under low water pressure, from a $5.49 flow-boosting kit to solid-metal 8-inch heads. See our picks, honest drawbacks, and current prices.",
     "date": "2026-07-19"
-  },
-  {
-    "slug": "handheld-vs-fixed-shower-head",
-    "title": "Best Handheld vs Fixed Shower Head (2026) | Best Shower Heads",
-    "publishDate": "2026-07-18",
-    "summary": "Handheld vs fixed shower head: we compare build, price, cleaning, and daily comfort so you can pick the right sprayer for your bathroom, budget, and household.",
-    "image": "images/hero-handheld-vs-fixed-shower-head.webp",
-    "category": "Comparisons",
-    "template": "comparison",
-    "description": "Handheld vs fixed shower head: we compare build, price, cleaning, and daily comfort so you can pick the right sprayer for your bathroom, budget, and household.",
-    "date": "2026-07-18"
   },
   {
     "slug": "best-kids-rainfall-shower-heads",
